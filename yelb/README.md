@@ -1,18 +1,6 @@
 
 #### From https://github.com/mreferre/yelb
 
-#### Why Yelb 
-
-When experimenting with new technologies you often follow tutorials that let you deploy purpose-built simple demo application. With Yelb I wanted to make this experience the other way around: start with an existing application and adapt it to the various technologies, services and platforms you are learning. I found this to be way more fun and useful. 
-
-This was particularly true as I embarked with the challenge of learning different abstractions available in the cloud:
-
-![cloud-abstractions](images/cloud-abstractions.png)
-
-See [this blog post](http://www.it20.info/2018/06/compute-abstractions-on-aws/) for more information.
-
-Yelb can be deployed (potentially) on each of these abstractions from bare metal (EC2) all the way to Lambda (serverless). 
-
 
 #### Yelb architecture
 
