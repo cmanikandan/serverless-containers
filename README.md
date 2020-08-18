@@ -13,10 +13,13 @@ The application component that exists is yelb-appserver. This is a Sinatra appli
 
 **Prequisites:**
 
+We will be using [Cloud 9](https://aws.amazon.com/cloud9/) as a developer desktop to deploy yelb. 
+
+
 **Lets get started !!**
 
 1. [Deployment of yelb on AWS Fargate on Amazon ECS](https://github.com/cmanikandan/serverless-containers/tree/master/yelb/deployments/platformdeployment/AWS/ECS)
 2. [Deployment of yelb on AWS Fargate on Amazon EKS](https://github.com/cmanikandan/serverless-containers/tree/master/yelb/deployments/platformdeployment/Kubernetes/yaml)
-3. [Next steps](https://github.com/cmanikandan/serverless-containers/nextsteps)
+3. [Next steps](https://github.com/cmanikandan/serverless-containers/tree/master/nextsteps)
 
 Hooe you had fun, deploying on AWS Fargate !! 
