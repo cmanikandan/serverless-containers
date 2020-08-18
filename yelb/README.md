@@ -1,4 +1,6 @@
 
+#### From https://github.com/mreferre/yelb
+
 #### Why Yelb 
 
 When experimenting with new technologies you often follow tutorials that let you deploy purpose-built simple demo application. With Yelb I wanted to make this experience the other way around: start with an existing application and adapt it to the various technologies, services and platforms you are learning. I found this to be way more fun and useful. 
