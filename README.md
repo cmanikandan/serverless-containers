@@ -14,6 +14,7 @@ The application component that exists is yelb-appserver. This is a Sinatra appli
 **Prequisites:**
 
 We will be using [Cloud 9](https://aws.amazon.com/cloud9/) as a developer desktop to deploy yelb. 
+Note, building docker images can easily eat up your disk space on Cloud 9, its always a good practice to resize your disk volumes to a bigger size by following the steps outlined at - https://docs.aws.amazon.com/cloud9/latest/user-guide/move-environment.html
 
 
 **Lets get started !!**
