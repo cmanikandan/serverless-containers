@@ -32,3 +32,10 @@ cdk deploy
 ```
 
 5. The yelb application would have been deployed in Amazon ECS. Access the load balancer to access the application. 
+
+6. If you want to clean up the AWS resources that was created, please issue the following commands:
+
+```
+cd /home/ec2-user/environment/serverless-containers/yelb/deployments/platformdeployment/AWS/ECS/cdk
+cdk destroy
+```
