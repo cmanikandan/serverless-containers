@@ -29,3 +29,7 @@ You can AWS App Mesh with Amazon EKS as well as Amazon ECS. Please check the fol
 1. https://aws.amazon.com/blogs/containers/service-connectivity-inside-and-outside-the-mesh-using-aws-app-mesh-ecs-fargate/ 
 2. https://aws.amazon.com/blogs/containers/getting-started-with-app-mesh-and-eks/
 
+The yelb app deployed after being "meshyfied" with AWS App Mesh on Fargate on Amazon ECS (from https://aws.amazon.com/blogs/containers/service-connectivity-inside-and-outside-the-mesh-using-aws-app-mesh-ecs-fargate/) :
+
+![yelb-appmesh](../yelb/images/yelb-appmesh.png)
+
