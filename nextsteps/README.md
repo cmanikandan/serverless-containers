@@ -18,7 +18,7 @@ capacityProvider=FARGATE_SPOT,weight=3
 
 What the above means that, we use a combination of FARGATE_SPOT and FARGATE capacity providers. We selected a Weight of 3 for FARGATE_SPOT and 1 for FARGATE. This means that for every four Tasks, three are started on FARGATE_SPOT and one on FARGATE. To test this, you can go and update any ECS service like the yelb-ui service and increase the number of tasks. You can now check, that the Fargate tasks will be running in a mix of Spot and On-demand Fargate providers. 
 
-Note: Fargate Spot is not yet available for AWS Fargate on Amazon EKS. 
+Note: Support for Fargate Spot is not yet available for AWS Fargate on Amazon EKS. 
 
 ## 2. Using App Mesh
 
