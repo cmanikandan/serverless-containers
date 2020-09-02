@@ -5,6 +5,10 @@ This repo contains the steps to run a sample application, on AWS Fargate - which
 
 The sample application that we will be deploying is yelb - https://github.com/mreferre/yelb 
 
+The video for the twitch live session has been now posted at https://www.twitch.tv/videos/715886887
+
+ [![Twitch video link](https://github.com/cmanikandan/serverless-containers/blob/master/devax.png)](https://www.twitch.tv/videos/715886887)
+
 ## yelb tech stack:
 
 There is a front-end component called yelb-ui that is responsable for vending the JS code to the browser. This code is compiled from an Angular 2 application. Depending on the deployment model this code can be served from an instance (EC2), from a container (Docker, Kubernetes, ECS) or from an S3 bucket (serverless). The yelb-ui component may also include, depending on the deployment model, an nginx proxy. In this session, we will be deploying the code on AWS Fargate on Amazon ECS and Amazon EKS.
